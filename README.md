@@ -153,5 +153,5 @@ You are free to use, modify, and distribute it for educational or research purpo
 
 - Dataset Source: [Kaggle – Country Data for Clustering](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data)  
 - Developed by **Adnan Altimeemy**  
-  Data Scientist Eductor - 
+  Data Scientist  
   Educational purpose: introducing students to unsupervised learning and K-Means clustering using Python.
